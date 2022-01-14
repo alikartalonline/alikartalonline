@@ -7,8 +7,7 @@
 * 📷 Adobe Photoshop 
 * 🎥 Adobe After Effects
 
-http://visitor-badge.glitch.me/badge?page_id=alikartalonline.visitor-badge
-
+[![Visitors](http://visitor-badge.glitch.me/badge?page_id=alikartalonline.visitor-badge)]
 
 .
 <!-- ### Hi there 👋 -->
