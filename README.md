@@ -7,6 +7,7 @@
 * 📷 Adobe Photoshop 
 * 🎥 Adobe After Effects
 
+<br>
 [![Visitors](http://visitor-badge.glitch.me/badge?page_id=alikartalonline.visitor-badge)](https://github.com/alikartalonline) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/alikartalonline)
 
 
