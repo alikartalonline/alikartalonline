@@ -1,6 +1,5 @@
 
 ## Hi there 🙋‍♂️
-<hr />
 
 ![HelloWorld](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)
 
