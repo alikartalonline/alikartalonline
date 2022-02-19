@@ -1,6 +1,6 @@
 ### Hi there 🙋‍♂️
 
-<div class="tenor-gif-embed" data-postid="18564330" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/hello-world-gif-18564330">Hello World GIF</a>from <a href="https://tenor.com/search/hello+world-gifs">Hello World GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/view/hello-world-gif-18564330
 
 **Glad to see you here!** :star_struck: <br> I'm Ali Kartal from Turkey. I have an intermediate level of English. I spend most of my time learning software and software development. The green dots on my [**GitHub** Profile](https://github.com/alikartalonline?tab=repositories) represent my journey :running_man: I am currently looking for job opportunities as "Jr. Front-end Developer" and I’m currently learning ***JavaScript***. You can **find me on [LinkedIn](https://www.linkedin.com/in/alikartalonline/)**. I also enjoy editing videos and pictures, taking nature photos and drawing pictures with charcoal 😎.
 
