@@ -20,6 +20,7 @@
 
 [![Netlify Badge](https://img.shields.io/badge/-Netlify-000?style=flat-quare&labelColor=000&logo=netlify&logoColor=white&link=link)](https://app.netlify.com/teams/alikartalonline/overview)
 
+
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/alikartalonline/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alikartalonline" height="30" width="40" /></a>
 
