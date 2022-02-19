@@ -16,10 +16,11 @@
 [![Visitors](http://visitor-badge.glitch.me/badge?page_id=alikartalonline.visitor-badge)](https://github.com/alikartalonline) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/alikartalonline)
 <br />
 
-<p align="left">
+
+<!-- <p align="left">
 <a href="https://www.linkedin.com/in/alikartalonline/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alikartalonline" height="30" width="40" /></a>
 
-
+ -->
 
 
 
