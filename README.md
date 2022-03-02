@@ -7,7 +7,7 @@
 
 ## Skills and Experience
 * 💻 ***HTML, CSS, JavaScript***
-* ⚛ React (*I'm still in the learning phase...*:fire:)
+* ⚛ React
 * 📷 Adobe Photoshop 
 * 🎥 Adobe After Effects
 
