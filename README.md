@@ -8,12 +8,12 @@
 ## Skills and Experience
 * 💻 ***HTML, CSS, JavaScript***
 * ⚛ React
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="15" height="15" alt="C#" title="C# logo free icon"> C#
 * 📷 Adobe Photoshop 
 * 🎥 Adobe After Effects
 
 <br />
-
-### Find Me! ☎️
+ 
  <hr/>
  
 [![Visitors](http://visitor-badge.glitch.me/badge?page_id=alikartalonline.visitor-badge)](https://github.com/alikartalonline) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/alikartalonline)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-quare&labelColor=blue&logo=twitter&logoColor=white&link=link)](https://twitter.com/alikartalonline) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-quare&labelColor=blueviolet&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/alikartalonline/)  [![Instagram Badge](https://img.shields.io/badge/-alikartalart-LimeGreen?style=flat-quare&labelColor=LimeGreen&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/alikartalart/)  [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0077b5?style=flat-quare&labelColor=0077b5&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/alikartalonline/) [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-006400?style=flat-quare&labelColor=006400&logo=hackerrank&logoColor=white&link=link)](https://www.hackerrank.com/alikartalonline) [![Netlify Badge](https://img.shields.io/badge/-Netlify-000?style=quare&labelColor=000&logo=netlify&logoColor=white&link=link)](https://app.netlify.com/teams/alikartalonline/overview)
