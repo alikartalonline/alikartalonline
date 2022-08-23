@@ -7,7 +7,7 @@
 
 ## Skills and Experience
 * 💻 ***HTML, CSS, JavaScript***
-* <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="15" height="15" alt="React" title="React icon"> **React**
+*  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="15" height="15" alt="React" title="React icon">  **React**
 * 📷 Adobe Photoshop 
 * 🎥 Adobe After Effects
 
