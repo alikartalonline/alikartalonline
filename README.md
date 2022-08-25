@@ -6,10 +6,11 @@
 **Glad to see you here!** :star_struck: <br /> I'm <strong>Ali Kartal</strong> from Turkey. I have an intermediate level of English. I’m currently learning ***JavaScript***. I spend most of my time learning software and software development. The green dots on my [**GitHub** Profile](https://github.com/alikartalonline?tab=repositories) represent my journey :running_man:  . You can **find me on [LinkedIn](https://www.linkedin.com/in/alikartalonline/)**. I also enjoy editing videos and pictures, taking nature photos and drawing pictures with charcoal 😎.
 
 ## Skills and Experience
-* 💻 ***HTML, CSS, JavaScript***
+*  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15" height="15" alt="JavaScript" title="Js icon">  **HTML, CSS, JavaScript**
 *  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="15" height="15" alt="React" title="React icon">  **React**
-* 📷 Adobe Photoshop 
-* 🎥 Adobe After Effects
+*  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Adobe_Photoshop_CS5_icon.png" width="17" height="17" alt="Photoshop" title="Ps icon"> Adobe Photoshop 
+* <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Adobe-After_Effects-icon.png" width="16" height="16" alt="After Effects" title="Ae icon"> Adobe After Effects
+* <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/AES_avalanche.gif" width="16" height="16" alt="Coding" title="Code icon"> ***Coding...***
 
 <br />
  
@@ -29,6 +30,12 @@
 
 <!--
 **alikartalonline/alikartalonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Skills and Experience
+* 💻 ***HTML, CSS, JavaScript***
+*  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="15" height="15" alt="React" title="React icon">  **React**
+* 📷 Adobe Photoshop 
+* 🎥 Adobe After Effects
 
 Here are some ideas to get you started:
 
