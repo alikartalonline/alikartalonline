@@ -8,6 +8,7 @@
 ## Skills and Experience
 *  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15" height="15" alt="JavaScript" title="Js icon">  **HTML, CSS, JavaScript**
 *  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="15" height="15" alt="React" title="React icon">  **React**
+*  <img src="https://media4.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="16" height="16" alt="React" title="React icon">  **Node.Js**
 *  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Adobe_Photoshop_CS5_icon.png" width="17" height="17" alt="Photoshop" title="Ps icon"> Adobe Photoshop 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Adobe-After_Effects-icon.png" width="16" height="16" alt="After Effects" title="Ae icon"> Adobe After Effects
 * <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/AES_avalanche.gif" width="16" height="16" alt="Coding" title="Code icon"> ***Coding...***
