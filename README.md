@@ -3,7 +3,7 @@
 
 ![HelloWorld](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif) 
 
-**Glad to see you here!** :star_struck: <br /> I'm <strong>Ali Kartal</strong> from Turkey. I have an intermediate level of English. I’m currently learning ***JavaScript***. I spend most of my time learning software and software development. The green dots on my [**GitHub** Profile](https://github.com/alikartalonline?tab=repositories) represent my journey :running_man:  . You can **find me on [LinkedIn](https://www.linkedin.com/in/alikartalonline/)**. I also enjoy editing videos and pictures, taking nature photos and drawing pictures with charcoal 😎.
+**Glad to see you here!** :star_struck: <br /> I'm <strong>Ali Kartal</strong> from Turkey. I have an intermediate level of English and can speak English. I’m currently learning ***JavaScript***. I spend most of my time learning and developing software. I'm usually interested in **REACT** and I'm trying to improve myself further. The green dots on my [**GitHub** Profile](https://github.com/alikartalonline?tab=repositories) represent my journey :running_man:  . You can **find me on [LinkedIn](https://www.linkedin.com/in/alikartalonline/)**. I also enjoy editing videos and pictures, taking nature photos and drawing pictures with charcoal 😎.
 
 ## Skills and Experience
 *  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15" height="15" alt="JavaScript" title="Js icon">  **HTML, CSS, JavaScript**
