@@ -3,14 +3,13 @@
 
 ![HelloWorld](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif) 
 
-**Glad to see you here!** :star_struck: <br /> I'm <strong>Ali Kartal</strong> from Turkey. I have an intermediate level of English and can speak English. I’m currently learning ***JavaScript***. I spend most of my time learning and developing software. I'm usually interested in **REACT** and I'm trying to improve myself further. The green dots on my [**GitHub** Profile](https://github.com/alikartalonline?tab=repositories) represent my journey :running_man:  . You can **find me on [LinkedIn](https://www.linkedin.com/in/alikartalonline/)**. I also enjoy editing videos and pictures, taking nature photos and drawing pictures with charcoal 😎.
+**Glad to see you here!** :star_struck: <br /> I'm <strong>Ali Kartal</strong> from Turkey. I have an intermediate level of English. I’m currently learning ***JavaScript***. I spend most of my time learning and developing software. I'm usually interested in **REACT** and I'm trying to improve myself further. The green dots on my [**GitHub** Profile](https://github.com/alikartalonline?tab=repositories) represent my journey :running_man:  . You can **find me on [LinkedIn](https://www.linkedin.com/in/alikartalonline/)**. I also enjoy editing videos and pictures, taking nature photos and drawing pictures with charcoal 😎.
 
-## Skills and Experience
+## Skills
 *  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15" height="15" alt="JavaScript" title="Js icon">  **HTML, CSS, JavaScript**
 *  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="15" height="15" alt="React" title="React icon">  **React**
 *  <img src="https://media4.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="16" height="16" alt="React" title="React icon">  **Node.Js**
 *  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Adobe_Photoshop_CS5_icon.png" width="17" height="17" alt="Photoshop" title="Ps icon"> Adobe Photoshop 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Adobe-After_Effects-icon.png" width="16" height="16" alt="After Effects" title="Ae icon"> Adobe After Effects
 * <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/AES_avalanche.gif" width="16" height="16" alt="Coding" title="Code icon"> ***Coding...***
 
 <br />
@@ -29,7 +28,7 @@
 
 
 
-
+<!-- * <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Adobe-After_Effects-icon.png" width="16" height="16" alt="After Effects" title="Ae icon"> Adobe After Effects -->
 
 <!-- * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="15" height="15" alt="C#" title="C# logo free icon"> C# -->
 <!-- * ⚛ React -->
